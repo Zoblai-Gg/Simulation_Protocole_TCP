@@ -14,3 +14,7 @@ Ensuite, on ouvre 2 terminaux
 
 - Sur le 2e : ./bin/cli
 
+# Nettoyage du dossier
+
+make clean
+
